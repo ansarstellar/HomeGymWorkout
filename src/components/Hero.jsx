@@ -10,6 +10,12 @@ export default function Hero() {
           Swole<span className="text-blue-400">normous</span>
         </h1>
       </div>
+
+
+
+
+
+      
       <p>
         Lorem ipsum dolor, sit amet consectetur{" "}
         <span className="text-blue-400 font-medium">adipisicing elit.</span>{" "}
